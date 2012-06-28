@@ -1,0 +1,5 @@
+((:proxy nil :port 9000 :language :php :fileuri "file:///C:/inetpub/wwwroot/staging.companys.ch/AMFEndpoint/index_iphoneV5.php" :source
+	 ("file:///C:/inetpub/wwwroot/staging.companys.ch/AMFEndpoint/index_iphoneV5.php"))
+ (:proxy nil :port 9000 :language :php :fileuri "file:///home/andre/public_html/index.php" :source
+	 ("file:///home/andre/public_html/index.php" "file:///home/andre/public_html/index.php" "file:///home/andre/public_html/index.php" "file:///home/andre/public_html/index.php" "file:///home/andre/public_html/index.php" "file:///home/andre/public_html/index.php" "file:///home/andre/public_html/index.php" "file:///home/andre/public_html/index.php" "file:///home/andre/public_html/index.php" "file:///home/andre/public_html/index.php" "file:///home/andre/public_html/index.php" "file:///home/andre/public_html/index.php" "file:///home/andre/public_html/index.php" "file:///home/andre/public_html/index.php" "file:///home/andre/public_html/index.php" "file:///home/andre/public_html/index.php")
+	 :bp nil))
